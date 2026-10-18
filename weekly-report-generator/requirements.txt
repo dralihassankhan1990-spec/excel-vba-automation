@@ -1,0 +1,2 @@
+# Weekly Report Generator — pinned dependencies (Python 3.10+)
+openpyxl==3.1.2
